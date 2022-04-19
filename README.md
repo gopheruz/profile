@@ -10,7 +10,7 @@ Full stack web developer
 
 
 
-                        ### Skills
+            
                         
                         
                               <p align="left">
